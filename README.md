@@ -1,7 +1,7 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="https://github.com/Ashutosh851" target="_blank">**Visit Now** 🚀</a>
+<a href="https://ashutosh851.github.io/portfolio/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
